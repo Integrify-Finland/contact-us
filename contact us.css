@@ -1,0 +1,50 @@
+body {
+    background-color: #1096D3;
+    margin: 10% 30%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.box {
+    background-color: #3B479D;
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+    border: 2px white solid;
+}
+
+.name {
+    background-color: #38459d;
+    width: 70%;
+    padding: 5px;
+    border-bottom: 2px solid white;
+    margin: 2% 12%;
+    justify-content: center;
+}
+
+.h1 {
+    text-align: center;
+    color: #E8FAFB;
+}
+
+#Yname {
+    border-bottom: gold;
+    background-color: transparent;
+    width: 100%;
+    border: none;
+}
+
+.h6 {
+    text-align: center;
+    color: #8FA2D9
+}
+
+.btn {
+    padding: 10px 20px;
+    display: block;
+    margin: auto;
+}
+
+input {
+    outline: none;
+    color: #3F7CCE
+}
